@@ -1,5 +1,23 @@
-### Built with Next.js, TypeScript, and Postgres, the University Library Management System is a production-grade platform featuring a public-facing app and an admin interface. It offers advanced functionalities like seamless book borrowing with reminders and receipts, robust user management, automated workflows, and a modern, optimized tech stack for real-world scalability.
+# 📚 Library Management System
+**Full-stack library management platform with advanced caching, role-based access control, and DDoS protection.**
+Built with Next.js, TypeScript, and Postgres, the University Library Management System is a production-grade platform featuring a public-facing app and an admin interface. It offers advanced functionalities like seamless book borrowing with reminders and receipts, robust user management, automated workflows, and a modern, optimized tech stack for real-world scalability.
 
+## 📊 Impact
+- ⚡ High-performance queries with PostgreSQL and Redis caching
+- 🔐 Advanced security with Auth.js, DDoS protection, and route guards
+- 👥 Role-based access control for admins, librarians, and members
+- 📁 File upload support for digital resources and documents
+
+## ✨ Key Features
+- **Borrowing Workflow:** Complete book checkout and return management system
+- **Admin Dashboard:** Comprehensive administrative controls and analytics
+- **Redis Caching:** Optimized query performance for frequently accessed data
+- **Role-Based Protection:** Secure route protection based on user permissions
+- **File Management:** Upload and manage digital library resources
+- **DDoS Protection:** Advanced security measures against malicious traffic
+- **Complex Queries:** PostgreSQL database handling advanced search and filtering
+
+## 🛠️ Tech Stack
 - Next.js
 - PostgreSQL
 - Upstash
@@ -8,7 +26,7 @@
 - Resend
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🔋 All Features</a>
 
 ### Features of the University Library Management System Project
 
